@@ -12,3 +12,5 @@ EDA
 --
 
 * 不同时段租车数
+
+![hour](http://github.com/taohaofan/bike_sharing/raw/master/hour.png)
